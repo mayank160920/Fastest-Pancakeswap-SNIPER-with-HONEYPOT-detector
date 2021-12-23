@@ -31,7 +31,7 @@ Debian/Ubuntu: $ sudo apt install python3 git make gcc
 Windows: Need to install Visual Studio BuildTools & Python3
 ```
 
-<H2>HOW TO USE</H2>�
+<H2>HOW TO USE</H2>
 
 ### Setup your Address and secret key in Settings.json
 
@@ -93,7 +93,7 @@ all options with infos:
 
 <a href="https://ibb.co/9v4txdp"><img src="https://i.ibb.co/n01CXKw/1200px-Raider-logo-svg.png" alt="1200px-Raider-logo-svg" border="0"></a>
 
-<H3>WHAT IS UNIQUE TOKEN TRADERS</h3>�
+<H3>WHAT IS UNIQUE TOKEN TRADERS</h3>
 
 - Support ANDROID ,Windows 10 ,Linux and Mac OS
 - Add uniswap V3 & pancakeswap v2 
