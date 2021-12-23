@@ -1,4 +1,4 @@
-# 🚀 Pancakeswap BSC Sniper Bot web3  (ANDROID WINDOWS MAC LINUX)🚀
+# � Pancakeswap BSC Sniper Bot web3 with honeypot detector (ANDROID WINDOWS MAC LINUX)�
 
 <a href="https://ibb.co/Ct5LxMt"><img src="https://i.ibb.co/VNW6XQN/raderss.jpg" alt="raderss" border="0"></a>
 
@@ -10,18 +10,16 @@
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-blue.svg?style=flat)]()
 
 
-Web3 Pancakeswap Sniper && Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
+##Web3 Pancakeswap Sniper && Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 
 ### The first Binance Smart Chain sniper bot with Honeypot checker!  
 <a href="https://ibb.co/rZZ7k4T"><img src="https://i.ibb.co/nDDgrzZ/Screenshot-2021-12-23-191501.png" alt="Screenshot-2021-12-23-191501" border="0"></a>
 
 
 ### First SNIPER BOT for ANDROID 
-<a href="https://ibb.co/9v4txdp"><img src="https://i.ibb.co/n01CXKw/1200px-Raider-logo-svg.png" alt="1200px-Raider-logo-svg" border="0"></a>
-
 
 <H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
-<H5>Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches</H5>
+<H3>Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches</H3>
 
 
 # Install
@@ -33,7 +31,8 @@ Debian/Ubuntu: $ sudo apt install python3 git make gcc
 Windows: Need to install Visual Studio BuildTools & Python3
 ```
 
-<H2>HOW TO USE</H2>🏆
+<H2>HOW TO USE</H2>�
+
 ### Setup your Address and secret key in Settings.json
 
 1. An ethereum/bsc address.
@@ -92,7 +91,9 @@ all options with infos:
 * = require every time its runs!
 ```
 
-<H3>WHAT IS UNIQUE TOKEN TRADERS</h3>🤠
+<a href="https://ibb.co/9v4txdp"><img src="https://i.ibb.co/n01CXKw/1200px-Raider-logo-svg.png" alt="1200px-Raider-logo-svg" border="0"></a>
+
+<H3>WHAT IS UNIQUE TOKEN TRADERS</h3>�
 
 - Support ANDROID ,Windows 10 ,Linux and Mac OS
 - Add uniswap V3 & pancakeswap v2 
