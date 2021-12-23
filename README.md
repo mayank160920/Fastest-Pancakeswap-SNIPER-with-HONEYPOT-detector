@@ -3,7 +3,7 @@
 ## First SNIPER BOT for ANDROID with honeypot detector
 
 ![alt text](https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detector/blob/main/TOKENRADER.jpg?raw=true "GIF application")
-
+ 
 [![Version](https://img.shields.io/badge/Codename-BlackHat-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-ANDROID-orange.svg)]()
