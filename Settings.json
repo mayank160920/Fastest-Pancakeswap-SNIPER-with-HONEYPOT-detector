@@ -1,0 +1,8 @@
+{
+    "metamask_address": "WALLET-ADDRESS",
+    "metamask_private_key": "PRIVATE-KEY" ,
+    "RPC": "https://bsc-dataseed1.defibit.io/",
+    "GAS": 6,
+    "MaxSellTax": 15,
+    "MaxBuyTax": 15
+}
