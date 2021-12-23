@@ -108,8 +108,5 @@ all options with infos:
 - The program determines the name and decimals of the token automatically
 
 
-
-![alt text](https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detector/blob/main/TOKENRADER.jpg?raw=true "GIF application")
-
 ## Trailing-Stop-Loss:
 <img src="https://i.ytimg.com/vi/dZFb0-fwqOk/maxresdefault.jpg" height="400">
