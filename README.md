@@ -17,6 +17,7 @@
 ### The first Binance Smart Chain sniper bot with Honeypot checker!  
 <a href="https://ibb.co/rZZ7k4T"><img src="https://i.ibb.co/nDDgrzZ/Screenshot-2021-12-23-191501.png" alt="Screenshot-2021-12-23-191501" border="0"></a>
 
+![alt text](https://github.com/persianhydra/panUNIswap-bot/blob/main/panUNIswap-bot.gif?raw=true "GIF application")
 
 ### First SNIPER BOT for ANDROID with honeypot detector
 
@@ -71,6 +72,7 @@ python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -a 0.001 --buyonl
 python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -tsl 10 -nb
 ```  
 
+
 all options with infos:  
 
 ```python3
@@ -107,6 +109,8 @@ all options with infos:
 - The program determines the name and decimals of the token automatically
 
 
+
+![alt text](https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detector/blob/main/TOKENRADER.jpg?raw=true "GIF application")
 
 ## Trailing-Stop-Loss:
 <img src="https://i.ytimg.com/vi/dZFb0-fwqOk/maxresdefault.jpg" height="400">
