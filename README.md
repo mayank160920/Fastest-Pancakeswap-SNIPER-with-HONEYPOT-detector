@@ -1,5 +1,7 @@
 # Pancakeswap BSC Sniper Bot web3 with honeypot detector (ANDROID WINDOWS MAC LINUX)
 
+## First SNIPER BOT for ANDROID honeypot detector
+
 <a href="https://ibb.co/Ct5LxMt"><img src="https://i.ibb.co/VNW6XQN/raderss.jpg" alt="raderss" border="0"></a>
 
 [![Version](https://img.shields.io/badge/Codename-BlackHat-red.svg?maxAge=259200)]()
