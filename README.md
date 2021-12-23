@@ -2,7 +2,7 @@
 
 ## First SNIPER BOT for ANDROID with honeypot detector
 
-<a href="https://ibb.co/Ct5LxMt"><img src="https://i.ibb.co/VNW6XQN/raderss.jpg" alt="raderss" border="0"></a>
+![alt text](https://github.com/persianhydra/panUNIswap-bot/blob/main/panUNIswap-bot.gif?raw=true "GIF application")
 
 [![Version](https://img.shields.io/badge/Codename-BlackHat-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
@@ -17,7 +17,6 @@
 ### The first Binance Smart Chain sniper bot with Honeypot checker!  
 <a href="https://ibb.co/rZZ7k4T"><img src="https://i.ibb.co/nDDgrzZ/Screenshot-2021-12-23-191501.png" alt="Screenshot-2021-12-23-191501" border="0"></a>
 
-![alt text](https://github.com/persianhydra/panUNIswap-bot/blob/main/panUNIswap-bot.gif?raw=true "GIF application")
 
 ### First SNIPER BOT for ANDROID with honeypot detector
 
