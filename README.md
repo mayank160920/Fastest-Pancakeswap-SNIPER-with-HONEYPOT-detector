@@ -9,7 +9,6 @@
 [![Documentation](https://img.shields.io/badge/TOKEN-RADER-red.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-blue.svg?style=flat)]()
 
-![TOKEN RADER]()  
 
 Web3 Pancakeswap Sniper && Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 
@@ -18,7 +17,7 @@ Web3 Pancakeswap Sniper && Take Profit/StopLose bot written in python3, For ANDR
 
 
 ### First SNIPER BOT for ANDROID 
-![Sniper](<a href="https://ibb.co/9v4txdp"><img src="https://i.ibb.co/n01CXKw/1200px-Raider-logo-svg.png" alt="1200px-Raider-logo-svg" border="0"></a>)  
+(<a href="https://ibb.co/9v4txdp"><img src="https://i.ibb.co/n01CXKw/1200px-Raider-logo-svg.png" alt="1200px-Raider-logo-svg" border="0"></a>)  
 
 
 <H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
