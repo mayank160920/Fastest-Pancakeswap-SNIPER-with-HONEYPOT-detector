@@ -3,7 +3,7 @@ from txns import TXN
 from time import sleep
 from halo import Halo
 from style import style
-
+ 
 ascii = """
 
  _____   ___         __    __     __    _       ___   __  __  
