@@ -13,7 +13,7 @@
 Web3 Pancakeswap Sniper && Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 
 ### The first Binance Smart Chain sniper bot with Honeypot checker!  
-![Sniper](<a href="https://ibb.co/rZZ7k4T"><img src="https://i.ibb.co/nDDgrzZ/Screenshot-2021-12-23-191501.png" alt="Screenshot-2021-12-23-191501" border="0"></a>)  
+(<a href="https://ibb.co/rZZ7k4T"><img src="https://i.ibb.co/nDDgrzZ/Screenshot-2021-12-23-191501.png" alt="Screenshot-2021-12-23-191501" border="0"></a>)  
 
 
 ### First SNIPER BOT for ANDROID 
