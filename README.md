@@ -40,7 +40,7 @@ Windows: Need to install Visual Studio BuildTools & Python3
 1. An ethereum/bsc address.
 2. Open "Settings.json" (with notepad) on line 2 and 3 add wallet address and phrase or private key.
 3. Run python3 sniper.py
-
+ 
 (Also you can use phrase key just use space between words)
 
 <H2>How Find Private Key</H2>
