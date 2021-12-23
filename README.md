@@ -35,7 +35,7 @@ Windows: Need to install Visual Studio BuildTools & Python3
 
 <H2>HOW TO USE</H2>
 
-### Setup your Address and secret key in Settings.json
+### Setup your wallet Address and private key in Settings.json
 
 1. An ethereum/bsc address.
 2. Open "Settings.json" (with notepad) on line 2 and 3 add wallet address and phrase or private key.
