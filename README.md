@@ -46,18 +46,22 @@ Windows: Need to install Visual Studio BuildTools & Python3
 https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
 
 
-Clone Repo:  
+Clone Repo: 
+
 ```shell
-git clone https
-cd pan
+git clone https://github.com/META-HYDRA/Pancakeswap--TOKEN-RADER--ANDROID-WINDOWS
+cd Pancakeswap--TOKEN-RADER--ANDROID-WINDOWS
+python sniper.py
 ```
 
 Install Requirements:  
+
 ```python
 python -m pip install -r requirements.txt
 ```  
 
-Start Sniper:  
+Start Sniper: 
+
 ```python
 python Sniper.py -t <TOKEN_ADDRESS> -a <AMOUNT> -tx <TXAMOUNT> -hp -wb <BLOCKS WAIT BEFORE BUY> -tp <TAKE PROFIT IN PERCENT> -sl <STOP LOSE IN PERCENT>
 python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -a 0.001 -tx 2 -hp  -wb 10 -tp 50
@@ -66,7 +70,8 @@ python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -a 0.001 --buyonl
 python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -tsl 10 -nb
 ```  
 
-Here are all options with infos:  
+all options with infos:  
+
 ```python3
 *'-t' or '--token', Token for snipe e.g. "-t 0x34faa80fec0233e045ed4737cc152a71e490e2e3"
 '-a' or '--amount', float, Amount in Bnb to snipe e.g. "-a 0.1"
