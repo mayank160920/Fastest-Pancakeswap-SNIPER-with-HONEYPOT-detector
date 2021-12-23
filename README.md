@@ -1,4 +1,4 @@
-# � Pancakeswap BSC Sniper Bot web3 with honeypot detector (ANDROID WINDOWS MAC LINUX)�
+# Pancakeswap BSC Sniper Bot web3 with honeypot detector (ANDROID WINDOWS MAC LINUX)
 
 <a href="https://ibb.co/Ct5LxMt"><img src="https://i.ibb.co/VNW6XQN/raderss.jpg" alt="raderss" border="0"></a>
 
@@ -10,13 +10,13 @@
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-blue.svg?style=flat)]()
 
 
-##Web3 Pancakeswap Sniper && Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
+## Web3 Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 
 ### The first Binance Smart Chain sniper bot with Honeypot checker!  
 <a href="https://ibb.co/rZZ7k4T"><img src="https://i.ibb.co/nDDgrzZ/Screenshot-2021-12-23-191501.png" alt="Screenshot-2021-12-23-191501" border="0"></a>
 
 
-### First SNIPER BOT for ANDROID 
+### First SNIPER BOT for ANDROID honeypot detector
 
 <H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
 <H3>Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches</H3>
