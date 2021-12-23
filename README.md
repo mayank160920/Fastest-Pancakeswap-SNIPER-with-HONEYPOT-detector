@@ -50,8 +50,8 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 Clone Repo: 
 
 ```shell
-git clone https://github.com/META-HYDRA/Pancakeswap--TOKEN-RADER--ANDROID-WINDOWS
-cd Pancakeswap--TOKEN-RADER--ANDROID-WINDOWS
+git clone https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detector
+cd Pancakeswap-SNIPER-with-HONEYPOT-detector
 python sniper.py
 ```
 
