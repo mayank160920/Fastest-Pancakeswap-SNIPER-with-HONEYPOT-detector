@@ -63,7 +63,7 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 
 
 
-## all options with infos:  
+## Sniper Bot options with infos:  
 
 ```python3
 '-t' or '--token', Token for snipe e.g. "-t 0x34faa80fec0233e045ed4737cc152a71e490e2e3"
