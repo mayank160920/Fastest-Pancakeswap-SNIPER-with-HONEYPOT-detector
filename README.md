@@ -74,7 +74,7 @@ python sniper.py
 all options with infos:  
 
 ```python3
-*'-t' or '--token', Token for snipe e.g. "-t 0x34faa80fec0233e045ed4737cc152a71e490e2e3"
+'-t' or '--token', Token for snipe e.g. "-t 0x34faa80fec0233e045ed4737cc152a71e490e2e3"
 '-a' or '--amount', float, Amount in Bnb to snipe e.g. "-a 0.1"
 
 '-tx' or '--txamount', how mutch tx you want to send? It split your BNB amount in e.g. "-tx 5"
