@@ -23,7 +23,7 @@
 <H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
 <H3>Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches</H3>
 
-
+ 
 # Install
 First of all, you need install Python3+
 Run on Android you need Install [Termux](https://termux.com/)  
