@@ -1,6 +1,6 @@
 # 🏆Pancakeswap BSC Sniper Bot web3 with honeypot detector (ANDROID WINDOWS MAC LINUX)🥇
 
-## ⭐️⭐️⭐️First SNIPER BOT for ANDROID with honeypot detector⭐️⭐️⭐️
+## ⭐️⭐️⭐️First SNIPER BOT for ANDROID & WINDOWS with honeypot detector⭐️⭐️⭐️
 
 ![alt text](https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detector/blob/main/TOKENRADER.jpg?raw=true "GIF application")
 
@@ -18,7 +18,7 @@
 <a href="https://ibb.co/rZZ7k4T"><img src="https://i.ibb.co/nDDgrzZ/Screenshot-2021-12-23-191501.png" alt="Screenshot-2021-12-23-191501" border="0"></a>
 
 
-### First SNIPER BOT for ANDROID with honeypot detector
+### ⭐️First SNIPER BOT for ANDROID & WINDOWS with honeypot detector⭐️
 
 <H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
 <H3>Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches</H3>
