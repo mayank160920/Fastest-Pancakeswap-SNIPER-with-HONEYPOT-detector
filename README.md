@@ -24,7 +24,7 @@
 <H3>Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches</H3>
 
  
-# Install
+### Install
 First of all, you need install Python3+
 Run on Android you need Install [Termux](https://termux.com/)  
 ```shell
@@ -37,7 +37,7 @@ Install Requirements:
 python -m pip install -r requirements.txt
 ```  
 
-Start Sniper: 
+### Start Sniper Bot: 
 
 ```python
 python Sniper.py -t <TOKEN_ADDRESS> -a <AMOUNT> -tx <TXAMOUNT> -hp -wb <BLOCKS WAIT BEFORE BUY> -tp <TAKE PROFIT IN PERCENT> -sl <STOP LOSE IN PERCENT>
@@ -50,8 +50,7 @@ python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -tsl 10 -nb
 
 <H2>HOW TO USE</H2>
 
-### Setup your wallet Address and private key in Settings.json
-
+## Setup your wallet Address and private key in Settings.json
 1. An ethereum/bsc address.
 2. Open "Settings.json" (with notepad) on line 2 and 3 add wallet address and phrase or private key.
 3. Run python3 sniper.py
