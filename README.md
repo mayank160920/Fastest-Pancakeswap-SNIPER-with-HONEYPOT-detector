@@ -10,7 +10,7 @@
 [![Available](https://img.shields.io/badge/Available-ANDROID-orange.svg?maxAge=259200)]()
 [![Documentation](https://img.shields.io/badge/TOKEN-RADER-red.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-blue.svg?style=flat)]()
-
+ 
 
 ## Web3 Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 
