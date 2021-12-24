@@ -32,7 +32,10 @@ termux: $ pkg install python git
 Debian/Ubuntu: $ sudo apt install python3 git make gcc
 Windows: Need to install Visual Studio BuildTools & Python3
 ```
-
+Install Requirements:  
+```python
+python -m pip install -r requirements.txt
+```  
 
 Start Sniper: 
 
@@ -67,13 +70,6 @@ git clone https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detecto
 cd Pancakeswap-SNIPER-with-HONEYPOT-detector
 python sniper.py
 ```
-
-Install Requirements:  
-
-```python
-python -m pip install -r requirements.txt
-```  
-
 
 all options with infos:  
 
