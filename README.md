@@ -33,6 +33,18 @@ Debian/Ubuntu: $ sudo apt install python3 git make gcc
 Windows: Need to install Visual Studio BuildTools & Python3
 ```
 
+
+Start Sniper: 
+
+```python
+python Sniper.py -t <TOKEN_ADDRESS> -a <AMOUNT> -tx <TXAMOUNT> -hp -wb <BLOCKS WAIT BEFORE BUY> -tp <TAKE PROFIT IN PERCENT> -sl <STOP LOSE IN PERCENT>
+python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -a 0.001 -tx 2 -hp  -wb 10 -tp 50
+python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 --sellonly
+python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -a 0.001 --buyonly
+python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -tsl 10 -nb
+```  
+
+
 <H2>HOW TO USE</H2>
 
 ### Setup your wallet Address and private key in Settings.json
@@ -60,16 +72,6 @@ Install Requirements:
 
 ```python
 python -m pip install -r requirements.txt
-```  
-
-Start Sniper: 
-
-```python
-python Sniper.py -t <TOKEN_ADDRESS> -a <AMOUNT> -tx <TXAMOUNT> -hp -wb <BLOCKS WAIT BEFORE BUY> -tp <TAKE PROFIT IN PERCENT> -sl <STOP LOSE IN PERCENT>
-python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -a 0.001 -tx 2 -hp  -wb 10 -tp 50
-python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 --sellonly
-python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -a 0.001 --buyonly
-python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -tsl 10 -nb
 ```  
 
 
