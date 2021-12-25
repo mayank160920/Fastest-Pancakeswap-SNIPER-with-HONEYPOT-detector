@@ -2,6 +2,8 @@
  
 ## ⭐️⭐️⭐️First SNIPER BOT for ANDROID & WINDOWS with honeypot detector⭐️⭐️⭐️
 
+<H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
+
 ![alt text](https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detector/blob/main/TOKENRADER.jpg?raw=true "GIF application")
 
 [![Version](https://img.shields.io/badge/Codename-BlackHat-red.svg?maxAge=259200)]()
@@ -20,7 +22,6 @@
 
 ### ⭐️First SNIPER BOT for ANDROID & WINDOWS with honeypot detector⭐️
 
-<H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
 <H3>Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches</H3>
 
  
