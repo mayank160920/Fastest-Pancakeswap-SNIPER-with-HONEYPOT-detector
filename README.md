@@ -1,5 +1,5 @@
 # 🏆Pancakeswap BSC Sniper Bot web3 with honeypot detector (ANDROID WINDOWS MAC LINUX)🥇
-
+ 
 ## ⭐️⭐️⭐️First SNIPER BOT for ANDROID & WINDOWS with honeypot detector⭐️⭐️⭐️
 
 ![alt text](https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detector/blob/main/TOKENRADER.jpg?raw=true "GIF application")
